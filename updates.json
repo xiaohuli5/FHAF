@@ -1,3 +1,19 @@
-{
-  "forge-1.16.5-36.2.42":"0.1.0"
+{  
+  "mod": {  
+    "mod_id": "farmerferdsmenandfishermen",  
+    "mod_name": "Farmer Ferdsmen And Fishermen",  
+    "version": "1.0.0",  
+    "description": "None",  
+    "source": "https://github.com/xiaohuli5/FHAF",  
+    "issues": "https://github.com/xiaohuli5/FHAF/issues",  
+    "changelog": [  
+      {  
+        "version": "1.0.0",  
+        "date": "2025-4-2",  
+        "changes": [  
+          "更改：暂无"
+        ]  
+      }  
+    ]  
+  }  
 }
